@@ -1,0 +1,22 @@
+{
+  "name": "js-oppositesattract",
+  "version": "1.0.0",
+  "description": "<h1>JS-OppositesAttract </h1>\r <h2>Instrucciones</h2>\r <p>Timmy y Sarah piensan que están enamorados, pero alrededor de donde viven, solo lo sabrán una vez que elijan una flor cada uno. Si una de las flores tiene un número par de pétalos y la otra tiene un número impar de pétalos, significa que están enamorados.</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piperiver97/JS-OppositesAttract.git"
+  },
+  "author": "Felipe Riveros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piperiver97/JS-OppositesAttract/issues"
+  },
+  "homepage": "https://github.com/piperiver97/JS-OppositesAttract#readme",
+  "devDependencies": {
+    "vitest": "^2.0.2"
+  }
+}
